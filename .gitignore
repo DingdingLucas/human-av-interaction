@@ -20,3 +20,7 @@
 Results/Figures/*.png
 Results/Figures/*.pdf
 Results/Tables/*.tex
+
+
+# Sensitive / personal data
+Data/RawData/
