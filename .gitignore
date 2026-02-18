@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Large data files (track manually if needed)
+*.dta
+*.csv
+*.xlsx
+*.zip
+*.sav
+
+# Results that can be regenerated
+Results/Figures/*.png
+Results/Figures/*.pdf
+Results/Tables/*.tex
+
+# Sensitive / personal data
+Data/RawData/
